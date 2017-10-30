@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5374f64a-b67c-472c-9ab1-1e932f38ad61" name="Default" comment="init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/src/._.DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/LICENSE.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/src/components/search_bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/src/components/video_detail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/src/components/video_list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/src/components/video_list_item.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/style/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/test/components/app_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/test/test_helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1_youtube/webpack.config.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/LICENSE.MD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/src/._.DS_Store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/src/components/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/src/components/search_bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/src/components/video_detail.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/src/components/video_list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/src/components/video_list_item.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/style/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/test/components/app_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/test/test_helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/youtube/webpack.config.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/youtube/src/test.js" afterPath="$PROJECT_DIR$/project1_youtube/src/components/__init__.py" />
+    <list default="true" id="5374f64a-b67c-472c-9ab1-1e932f38ad61" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -54,8 +22,8 @@
       <file leaf-file-name="reducer_posts.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project4_blog/src/reducers/reducer_posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="391">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -302,17 +270,6 @@
               <item name="Redux" type="b2602c69:ProjectViewProjectNode" />
               <item name="Redux" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Redux" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Redux" type="462c0819:PsiDirectoryNode" />
-              <item name="project1_youtube" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Redux" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Redux" type="462c0819:PsiDirectoryNode" />
-              <item name="project1_youtube" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -322,7 +279,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Web_Development" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="BookkDetail&#9;null&#9;null" />
@@ -450,7 +407,7 @@
       <workItem from="1509391784142" duration="29000" />
       <workItem from="1509392536397" duration="344000" />
       <workItem from="1509392911250" duration="70000" />
-      <workItem from="1509393066581" duration="33000" />
+      <workItem from="1509393066581" duration="891000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1509375751708</created>
@@ -480,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509392820322</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1509393107113</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1509393107113</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48060000" />
+    <option name="totallyTimeSpent" value="48918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -790,8 +754,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project4_blog/src/reducers/reducer_posts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
