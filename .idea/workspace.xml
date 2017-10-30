@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5374f64a-b67c-472c-9ab1-1e932f38ad61" name="Default" comment="init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/._.DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Redux.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/src/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/src/components/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/LICENSE.MD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/src/components/search_bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/src/components/video_detail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/src/components/video_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/src/components/video_list_item.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/src/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/style/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/test/components/app_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/test/test_helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/youtube/webpack.config.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1_youtube" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,14 +37,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reducer_posts.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reducer_posts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project4_blog/src/reducers/reducer_posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/youtube/src/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,7 +72,7 @@
       <file leaf-file-name="posts_show.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project4_blog/src/components/posts_show.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
+            <state relative-caret-position="731">
               <caret line="46" column="55" lean-forward="false" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -61,7 +84,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project4_blog/src/reducers/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="102">
               <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
@@ -73,7 +96,7 @@
       <file leaf-file-name="posts_index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project4_blog/src/components/posts_index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="255">
               <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -115,7 +138,7 @@
       <file leaf-file-name="posts_new.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project4_blog/src/components/posts_new.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
+            <state relative-caret-position="493">
               <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="19" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -183,6 +206,7 @@
         <option value="$PROJECT_DIR$/project4_blog/src/components/posts_show.js" />
         <option value="$PROJECT_DIR$/project4_blog/src/actions/index.js" />
         <option value="$PROJECT_DIR$/project4_blog/src/reducers/reducer_posts.js" />
+        <option value="$PROJECT_DIR$/youtube/test.js" />
       </list>
     </option>
   </component>
@@ -193,13 +217,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/project1_youtube/node_modules" />
     <handled-path value="$PROJECT_DIR$/project2_books/node_modules" />
     <handled-path value="$PROJECT_DIR$/project3_weather/node_modules" />
     <handled-path value="$PROJECT_DIR$/project4_blog/node_modules" />
+    <handled-path value="$PROJECT_DIR$/youtube/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -266,7 +290,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -278,12 +301,19 @@
             <path>
               <item name="Redux" type="b2602c69:ProjectViewProjectNode" />
               <item name="Redux" type="462c0819:PsiDirectoryNode" />
-              <item name="project1_youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Redux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Redux" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -409,7 +439,12 @@
       <workItem from="1509390279674" duration="24000" />
       <workItem from="1509390317424" duration="13000" />
       <workItem from="1509390363009" duration="115000" />
-      <workItem from="1509390605782" duration="19000" />
+      <workItem from="1509390605782" duration="87000" />
+      <workItem from="1509390729225" duration="87000" />
+      <workItem from="1509390846510" duration="100000" />
+      <workItem from="1509391701314" duration="62000" />
+      <workItem from="1509391784142" duration="29000" />
+      <workItem from="1509392536397" duration="269000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1509375751708</created>
@@ -425,24 +460,31 @@
       <option name="project" value="LOCAL" />
       <updated>1509388278675</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1509390630888</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509390630889</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47267000" />
+    <option name="totallyTimeSpent" value="47882000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12328767" sideWeight="0.4923077" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5263435" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5021075" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.46733403" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3381295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.47365648" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24876674" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19176598" sideWeight="0.4768177" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1627907" sideWeight="0.50769234" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -450,7 +492,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.49789253" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -503,8 +545,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/reducers/reducer_active_book.js" />
-    <entry file="file://$PROJECT_DIR$/src/reducers/reducer_books.js" />
     <entry file="file://$PROJECT_DIR$/src/containers/book-list.js" />
     <entry file="file://$PROJECT_DIR$/redux_project3_weather/webpack.config.js" />
     <entry file="file://$PROJECT_DIR$/redux_project3_weather/package.json" />
@@ -682,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project4_blog/src/components/posts_index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="255">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
@@ -692,7 +732,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project4_blog/src/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="102">
           <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
@@ -702,7 +742,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project4_blog/src/components/posts_new.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
+        <state relative-caret-position="493">
           <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="19" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -719,7 +759,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project4_blog/src/components/posts_show.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
+        <state relative-caret-position="731">
           <caret line="46" column="55" lean-forward="false" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -737,8 +777,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project4_blog/src/reducers/reducer_posts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="340">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -754,5 +794,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project1_youtube/test/test_helper.js" />
+    <entry file="file://$PROJECT_DIR$/youtube/test.js" />
+    <entry file="file://$PROJECT_DIR$/youtube/src/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
